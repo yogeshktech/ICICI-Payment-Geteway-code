@@ -1,0 +1,11 @@
+RAW:
+merchantId=100000000360859&merchantTxnNo=ORD1766999586736&respDescription=Cancelled+by+customer&responseCode=020
+REQ:
+Array
+(
+    [merchantId] => 100000000360859
+    [merchantTxnNo] => ORD1766999586736
+    [respDescription] => Cancelled by customer
+    [responseCode] => 020
+)
+

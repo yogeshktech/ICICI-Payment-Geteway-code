@@ -1,0 +1,6 @@
+REQ:
+{"mid":"100000000006873","orderId":"12345","txnAmount":"800","currency":"INR","returnUrl":"http://localhost/Getway/callback.php"}
+RESP:
+{"responseCode":"P1006","responseDescription":"Amount is missing","merchantId":null,"aggregatorID":null,"merchantTxnNo":null,"secureHash":null}
+ERR:
+

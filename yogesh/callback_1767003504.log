@@ -1,0 +1,24 @@
+RAW:
+secureHash=c4969313bd1c6059650d4b6d2343084c7d9debaa045553ff0ec49384420dffa5&amount=100.00&respDescription=Transaction+Rejected&paymentMode=Wallet&customerEmailID=customer%40example.com&addlParam2=111&aggregatorID=100000000360858&oth_charge=false&TransmissionDateTime=20251229154822&responseCode=039&customerMobileNo=919876543210&acqName=payphi&paymentSubInstType=icicipockets&merchantId=100000000360859&merchantTxnNo=ORD1767003490190&addlParam1=000&txnID=1000001173436
+REQ:
+Array
+(
+    [secureHash] => c4969313bd1c6059650d4b6d2343084c7d9debaa045553ff0ec49384420dffa5
+    [amount] => 100.00
+    [respDescription] => Transaction Rejected
+    [paymentMode] => Wallet
+    [customerEmailID] => customer@example.com
+    [addlParam2] => 111
+    [aggregatorID] => 100000000360858
+    [oth_charge] => false
+    [TransmissionDateTime] => 20251229154822
+    [responseCode] => 039
+    [customerMobileNo] => 919876543210
+    [acqName] => payphi
+    [paymentSubInstType] => icicipockets
+    [merchantId] => 100000000360859
+    [merchantTxnNo] => ORD1767003490190
+    [addlParam1] => 000
+    [txnID] => 1000001173436
+)
+

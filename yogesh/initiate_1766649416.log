@@ -1,0 +1,15 @@
+REQ:
+{"merchantId":"100000000006873","merchantTxnNo":"ORD1766649080446","amount":"7600.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"http://localhost:8080/Getway/callback.php","txnDate":"20251225085654","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"8d0522033c9f4fcbd79e44fd4cc10fa4d295a7b217a9992f5b69b4543308028e"}
+RESP:
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+ERR:
+
+HTTP_CODE:
+502

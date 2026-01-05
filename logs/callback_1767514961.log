@@ -1,0 +1,26 @@
+RAW:
+secureHash=d55dcd6ececfde73986545628f353e1eeccd20c60c708a300d4c476364944c93&amount=100.00&respDescription=Transaction+successful&paymentMode=UPI&customerEmailID=customer%40example.com&addlParam2=111&aggregatorID=100000000360858&oth_charge=false&TransmissionDateTime=20260104135116&paymentInstId=armanjoshi99%40ybl&responseCode=0000&customerMobileNo=919876543210&acqName=payphi&merchantId=100000000360859&paymentID=767586082266&merchantTxnNo=ORD1767514855458&addlParam1=000&paymentDateTime=20260104135115&txnID=2000001174104
+REQ:
+Array
+(
+    [secureHash] => d55dcd6ececfde73986545628f353e1eeccd20c60c708a300d4c476364944c93
+    [amount] => 100.00
+    [respDescription] => Transaction successful
+    [paymentMode] => UPI
+    [customerEmailID] => customer@example.com
+    [addlParam2] => 111
+    [aggregatorID] => 100000000360858
+    [oth_charge] => false
+    [TransmissionDateTime] => 20260104135116
+    [paymentInstId] => armanjoshi99@ybl
+    [responseCode] => 0000
+    [customerMobileNo] => 919876543210
+    [acqName] => payphi
+    [merchantId] => 100000000360859
+    [paymentID] => 767586082266
+    [merchantTxnNo] => ORD1767514855458
+    [addlParam1] => 000
+    [paymentDateTime] => 20260104135115
+    [txnID] => 2000001174104
+)
+

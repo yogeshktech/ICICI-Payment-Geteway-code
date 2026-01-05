@@ -1,0 +1,6 @@
+REQ:
+{"merchantId":"100000000006873","aggregatorID":"A100000000006873","merchantTxnNo":"12345","amount":"800.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"http://localhost/Getway/callback.php","txnDate":"20251224063941","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"","addlParam2":"","secureHash":"a276e7a32515ec21d0ac27c1a2edd281de77477e3606f48b75143a4fea229947"}
+RESP:
+{"responseCode":"P1006","responseDescription":"Invalid aggregatorID passed.","merchantId":"100000000006873","aggregatorID":"A100000000006873","merchantTxnNo":"12345","secureHash":null}
+ERR:
+

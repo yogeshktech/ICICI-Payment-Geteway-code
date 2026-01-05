@@ -1,0 +1,8 @@
+REQ:
+{"merchantId":"100000000006873","merchantTxnNo":"ORD1766649561460","amount":"78900.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"http://localhost:8080/Getway/callback.php","txnDate":"20251225085925","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"1adc1be401e0cdb1969449f765db328585816495837b75a809513c2f158ea5b7"}
+RESP:
+{"redirectURI":"http://localhost:8080/Getway/test_payment.php","tranCtx":"T1JEMTc2NjY0OTU2MTQ2MHw3ODkwMA==","responseCode":"000","respDescription":"Success"}
+ERR:
+
+HTTP_CODE:
+200

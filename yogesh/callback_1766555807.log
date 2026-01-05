@@ -1,0 +1,28 @@
+RAW:
+secureHash=6792e765d40c5fd851b2db3b6c11427a3a4902b5374ef0eba729ed2af9033bfe&amount=800.00&authCode=684531&addlParam2=111&customerEmailID=customer%40example.com&paymentMode=Card&respDescription=Transaction+successful&TransmissionDateTime=20251224112038&oth_charge=false&paymentInstId=XXXX+XXXX+XXXX+0035&customerMobileNo=919876543210&responseCode=0000&acqName=PayPhi&cardNetwork=VISA&paymentSubInstType=CC&merchantId=100000000006873&paymentID=535811921324&merchantTxnNo=ORD1766555345618&addlParam1=000&paymentDateTime=20251224112414&txnID=7700216354206
+REQ:
+Array
+(
+    [secureHash] => 6792e765d40c5fd851b2db3b6c11427a3a4902b5374ef0eba729ed2af9033bfe
+    [amount] => 800.00
+    [authCode] => 684531
+    [addlParam2] => 111
+    [customerEmailID] => customer@example.com
+    [paymentMode] => Card
+    [respDescription] => Transaction successful
+    [TransmissionDateTime] => 20251224112038
+    [oth_charge] => false
+    [paymentInstId] => XXXX XXXX XXXX 0035
+    [customerMobileNo] => 919876543210
+    [responseCode] => 0000
+    [acqName] => PayPhi
+    [cardNetwork] => VISA
+    [paymentSubInstType] => CC
+    [merchantId] => 100000000006873
+    [paymentID] => 535811921324
+    [merchantTxnNo] => ORD1766555345618
+    [addlParam1] => 000
+    [paymentDateTime] => 20251224112414
+    [txnID] => 7700216354206
+)
+

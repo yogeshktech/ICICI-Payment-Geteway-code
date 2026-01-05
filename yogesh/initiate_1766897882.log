@@ -1,0 +1,8 @@
+REQ:
+{"merchantId":"100000000360859","aggregatorId":"OTOE0621","merchantTxnNo":"ORD1766897875336","amount":"500.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"https://unikbox.in/getway/callback.php","txnDate":"20251228045802","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"9b53e57b72cb88a7e8ee65e4836259f9923ab35a1fd8efbdc769720f8469223f"}
+RESP:
+{"redirectURI":"https://unikbox.in/getway/test_payment.php","tranCtx":"T1JEMTc2Njg5Nzg3NTMzNnw1MDA=","responseCode":"000","respDescription":"Success"}
+ERR:
+
+HTTP_CODE:
+200

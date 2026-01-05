@@ -1,0 +1,8 @@
+REQ:
+{"merchantId":"100000000360859","aggregatorID":"100000000360858","merchantTxnNo":"ORD1766995797379","amount":"100.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"http://localhost/Getway/callback.php","txnDate":"20251229081001","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"3e9a4cdf764bfecad2b8853e0323ff93b1448c80eefd517c2f55c6d9f1f0eebc"}
+RESP:
+{"responseCode":"R1000","merchantId":"100000000360859","aggregatorID":"100000000360858","merchantTxnNo":"ORD1766995797379","redirectURI":"https://pgpay.icicibank.com/pg/api/v2/authRedirect","showOTPCapturePage":"N","generateOTPURI":null,"verifyOTPURI":null,"authorizeURI":null,"tranCtx":"R9fa21c3c-4bd2-45e6-b95f-4b79e919ad9f","secureHash":"7165d9e21752287d8070adcd57df4d203ff20ee4c107184b72aacd556fc18918"}
+ERR:
+
+HTTP_CODE:
+200

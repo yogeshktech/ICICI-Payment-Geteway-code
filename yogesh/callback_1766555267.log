@@ -1,0 +1,18 @@
+RAW:
+secureHash=2dad4157bee64c92a8f5a0e86ad941c723ec33b00136084a7022685bddc497b8&amount=3400.00&addlParam2=111&merchantId=100000000006873&paymentMode=UPI&respDescription=Transaction+Declined&merchantTxnNo=ORD1766555233749&addlParam1=000&paymentDateTime=20251224111746&responseCode=039&txnID=7700216354204
+REQ:
+Array
+(
+    [secureHash] => 2dad4157bee64c92a8f5a0e86ad941c723ec33b00136084a7022685bddc497b8
+    [amount] => 3400.00
+    [addlParam2] => 111
+    [merchantId] => 100000000006873
+    [paymentMode] => UPI
+    [respDescription] => Transaction Declined
+    [merchantTxnNo] => ORD1766555233749
+    [addlParam1] => 000
+    [paymentDateTime] => 20251224111746
+    [responseCode] => 039
+    [txnID] => 7700216354204
+)
+

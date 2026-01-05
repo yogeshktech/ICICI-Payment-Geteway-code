@@ -1,0 +1,8 @@
+REQ:
+{"merchantId":"100000000360859","aggregatorID":"100000000360858","merchantTxnNo":"ORD1766999817322","amount":"100.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"https://unikbox.in/getway/callback.php","txnDate":"20251229091658","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"3144ea3248e60133b359b4f4a2cf58e8ae20615990f76b55b05f5cd5d18a2233"}
+RESP:
+{"responseCode":"R1000","merchantId":"100000000360859","aggregatorID":"100000000360858","merchantTxnNo":"ORD1766999817322","redirectURI":"https://pgpay.icicibank.com/pg/api/v2/authRedirect","showOTPCapturePage":"N","generateOTPURI":null,"verifyOTPURI":null,"authorizeURI":null,"tranCtx":"Rdb6d5e6a-963e-4ea5-aa0c-04e7421dbd56","secureHash":"4502689ca76f2461cf2e4044d09d71b6342cf8d486a11c63f66765a731a89817"}
+ERR:
+
+HTTP_CODE:
+200

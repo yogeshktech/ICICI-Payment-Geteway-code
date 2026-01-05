@@ -1,0 +1,6 @@
+REQ:
+{"merchantId":"100000000006873","merchantTxnNo":"12345","amount":"800.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"http://localhost:8080/Getway/callback.php","txnDate":"20251224064622","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"544b378f49133e9939cfd77bd274dabba1f0b8324dbcb0740a6fc68e99b4ef21"}
+RESP:
+{"responseCode":"P1006","responseDescription":"Merchant reference number should be unique","merchantId":"100000000006873","aggregatorID":null,"merchantTxnNo":"12345","secureHash":"3f0b9e2d7dfaaf97935d2e38d0c1292c816b9e2ae85a9d4178d69a7e74a7c63f"}
+ERR:
+

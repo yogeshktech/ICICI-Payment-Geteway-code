@@ -1,0 +1,28 @@
+[29-Dec-2025 08:04:08 UTC] PHP Warning:  require(/home/unikbox.in/public_html/getway/ConfigProduction.php): Failed to open stream: No such file or directory in /home/unikbox.in/public_html/getway/index.php on line 7
+[29-Dec-2025 08:04:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unikbox.in/public_html/getway/ConfigProduction.php' (include_path='.:/usr/local/lsws/lsphp82/share/pear:/usr/local/lsws/lsphp82/share/php:/usr/share/pear:/usr/share/php') in /home/unikbox.in/public_html/getway/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/unikbox.in/public_html/getway/index.php on line 7
+[29-Dec-2025 08:04:41 UTC] PHP Warning:  require(/home/unikbox.in/public_html/getway/ConfigProduction.php): Failed to open stream: No such file or directory in /home/unikbox.in/public_html/getway/initiate.php on line 7
+[29-Dec-2025 08:04:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unikbox.in/public_html/getway/ConfigProduction.php' (include_path='.:/usr/local/lsws/lsphp82/share/pear:/usr/local/lsws/lsphp82/share/php:/usr/share/pear:/usr/share/php') in /home/unikbox.in/public_html/getway/initiate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/unikbox.in/public_html/getway/initiate.php on line 7
+[29-Dec-2025 08:05:15 UTC] PHP Warning:  require(/home/unikbox.in/public_html/getway/ConfigProduction.php): Failed to open stream: No such file or directory in /home/unikbox.in/public_html/getway/db.php on line 13
+[29-Dec-2025 08:05:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unikbox.in/public_html/getway/ConfigProduction.php' (include_path='.:/usr/local/lsws/lsphp82/share/pear:/usr/local/lsws/lsphp82/share/php:/usr/share/pear:/usr/share/php') in /home/unikbox.in/public_html/getway/db.php:13
+Stack trace:
+#0 /home/unikbox.in/public_html/getway/db.php(46): Database->__construct()
+#1 /home/unikbox.in/public_html/getway/initiate.php(14): Database::getInstance()
+#2 {main}
+  thrown in /home/unikbox.in/public_html/getway/db.php on line 13
+[29-Dec-2025 08:05:43 UTC] Database connection error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[29-Dec-2025 08:05:43 UTC] PHP Fatal error:  Uncaught Exception: Database connection failed in /home/unikbox.in/public_html/getway/db.php:40
+Stack trace:
+#0 /home/unikbox.in/public_html/getway/db.php(14): Database->connect()
+#1 /home/unikbox.in/public_html/getway/db.php(46): Database->__construct()
+#2 /home/unikbox.in/public_html/getway/initiate.php(14): Database::getInstance()
+#3 {main}
+  thrown in /home/unikbox.in/public_html/getway/db.php on line 40
+[29-Dec-2025 10:03:35 UTC] Failed to save payment record: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ORD1767002600755' for key 'order_id'
+[29-Dec-2025 10:09:58 UTC] Failed to save payment record: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ORD1767002625109' for key 'order_id'
+[29-Dec-2025 10:16:39 UTC] Failed to save payment record: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ORD1767003383492' for key 'order_id'

@@ -1,0 +1,8 @@
+REQ:
+{"merchantId":"100000000360859","aggregatorId":"OTOE0621","merchantTxnNo":"ORD1766650469557","amount":"1.00","currencyCode":"356","payType":"0","customerEmailID":"customer@example.com","transactionType":"SALE","returnURL":"http://localhost:8080/Getway/callback.php","txnDate":"20251225092324","customerMobileNo":"919876543210","customerName":"Test Customer","addlParam1":"000","addlParam2":"111","secureHash":"8cccd693d3295c32ef4d496f95e29c182a3100963de0987ef4937d16fe80d9be"}
+RESP:
+{"redirectURI":"http://localhost:8080/Getway/test_payment.php","tranCtx":"T1JEMTc2NjY1MDQ2OTU1N3wx","responseCode":"000","respDescription":"Success"}
+ERR:
+
+HTTP_CODE:
+200
